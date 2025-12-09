@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "247242976956",
+    "firebase_url": "https://nayprak-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nayprak",
+    "storage_bucket": "nayprak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247242976956:android:d441d30c422aae1a57aab9",
+        "android_client_info": {
+          "package_name": "com.nayaka.prak8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBjESv1uP8OwQKjBOPsQyRgRbp2T_cXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247242976956:android:fa63cd1b7eaba77557aab9",
+        "android_client_info": {
+          "package_name": "com.pert8.nayaka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBjESv1uP8OwQKjBOPsQyRgRbp2T_cXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247242976956:android:e077e5bc1a98a52e57aab9",
+        "android_client_info": {
+          "package_name": "com.rudhy.nayprak8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBjESv1uP8OwQKjBOPsQyRgRbp2T_cXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
